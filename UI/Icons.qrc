@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>Images/icons image/speaker icon4.png</file>
+    <file>Icons.qrc</file>
+    <file>Images/icons image/fast forward.png</file>
+    <file>Images/icons image/popout.png</file>
+    <file>Images/icons image/Clapperboard.png</file>
+    <file>Images/icons image/participants.png</file>
+    <file>Images/icons image/social2.png</file>
+    <file>Images/icons image/fast backward.png</file>
+    <file>Images/icons image/greenV.png</file>
+    <file>Images/icons image/redx.png</file>
+    <file>Images/icons image/white participants.png</file>
+    <file>Images/icons image/10X10 Dropdown.png</file>
+    <file>Images/icons image/down arrow.png</file>
+    <file>Images/icons image/Chat.png</file>
+    <file>Images/icons image/x.png</file>
+    <file>Images/icons image/social.png</file>
+    <file>Images/icons image/localUpload.png</file>
+    <file>Images/icons image/sync.png</file>
+    <file>Images/icons image/playButton (2).png</file>
+    <file>Images/icons image/backward play.png</file>
+    <file>Images/icons image/forward play.png</file>
+    <file>Images/icons image/fullscreen.png</file>
+    <file>Images/icons image/pauseButton.png</file>
+    <file>Images/icons image/playButton.png</file>
+    <file>Images/icons image/stopButton.png</file>
+    <file>Images/icons image/volume mini.png</file>
+    <file>Images/icons image/pause.png</file>
+    <file>Images/icons image/play.png</file>
+    <file>Images/icons image/player.png</file>
+    <file>Images/icons image/stop.png</file>
+  </qresource>
+</RCC>

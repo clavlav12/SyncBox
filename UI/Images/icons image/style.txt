@@ -1,0 +1,43 @@
+QSlider::sub-page:Horizontal { background-color: #9F2425; }
+QSlider::add-page:Horizontal { background-color: #333333; }
+
+QSlider::groove:horizontal { 
+	background-color: transparent;
+	height: 10px;
+	border-radius: 0px;
+}
+
+QSlider::handle:horizontal { 
+	background-color: #9F2425; 
+	border: 2px solid #9F2425;
+	width: 16px; 
+	height: 20px; 
+	line-height: 20px; 
+	margin-top: -5px; 
+	margin-bottom: -5px; 
+	border-radius: 10px; 
+}
+
+QSlider::handle:horizontal:hover { 
+	border-radius: 10px;
+}
+
+"ASDsads"
+QSlider::groove:horizontal {
+    background: transparent;
+	background-color: black;
+	height: 5px;
+}
+QSlider::handle:horizontal {
+	background-color: red;
+	border: 1px solid red;
+	width: 8px;
+	height: 5x;
+	line-height: 5px;
+	margin-top: -3px;
+	margin-bottom: -3px;
+	border-radius: 5px;
+}
+
+QSlider::add-page:Horizontal { background-color: #333333; }
+QSlider::sub-page:Horizontal { background-color: #9F2425; }

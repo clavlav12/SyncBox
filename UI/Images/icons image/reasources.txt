@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/29275319/how-to-hide-a-layout-in-pyqt
